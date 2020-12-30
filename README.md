@@ -3,4 +3,4 @@ Compile of [bongocat-osu](https://github.com/kuroni/bongocat-osu) for Raspberry 
 
 Find out how to config it on the [wiki](https://github.com/kuroni/bongocat-osu/wiki/Settings).
 
-Download the program [here](https://github.com/kuroni/bongocat-osu/releases).
+Download the program [here](https://github.com/mobilegmYT/bongocat-osu/releases).
